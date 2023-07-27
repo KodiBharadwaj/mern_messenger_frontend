@@ -128,7 +128,7 @@ const sendMessage = async (event) => {
         };
         setNewMessage("");
         const { data } = await axios.post(
-          "/api/message",
+          "https://mern-messenger.onrender.com/api/message",
           {
             content: newMessage,
             chatId: selectedChat._id,
