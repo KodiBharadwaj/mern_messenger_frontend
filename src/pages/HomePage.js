@@ -26,7 +26,7 @@ const HomePage = () => {
     borderRadius="lg"
     borderWidth="1px"
     >
-      <Text fontSize="4xl" fontFamily="Work sans" color="black" align="center"> Talk-A-Tive </Text>
+      <Text fontSize="4xl" fontFamily="Times New Roman" color="black" align="center"> Welcome to our App </Text>
     </Box>
     <Box bg="white" w="100%" p={4} borderRadius="lg" color="black" borderWidth="1px">
       <Tabs variant='soft-rounded' >
