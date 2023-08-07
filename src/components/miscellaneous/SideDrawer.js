@@ -115,7 +115,7 @@ const accessChat = async (userId) => {
         </Button>
       </Tooltip>
       <Text fontSize="2xl" fontFamily="Work sans">
-          Talk-A-Tive
+          Mern_Messenger
         </Text> 
         <div>
           <Menu>
