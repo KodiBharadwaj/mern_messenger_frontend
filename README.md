@@ -1,4 +1,5 @@
-# mern-chat-app
+#Author - Kodi Bharadwaj
+## mern-chat-app
 -> Using mern technology (Mongo DB, Express Js, React Js, Node js) a real time web application has been done.
 
 -> This repository contains the code for a full-stack chatting application built using the MERN (MongoDB, Express.js, React, Node.js) stack. 
