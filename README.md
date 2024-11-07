@@ -1,4 +1,4 @@
-#Author - Kodi Bharadwaj
+# Author - Kodi Bharadwaj
 ## mern-chat-app
 -> Using mern technology (Mongo DB, Express Js, React Js, Node js) a real time web application has been done.
 
