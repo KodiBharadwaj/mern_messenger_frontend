@@ -16,7 +16,7 @@ Database: Mongo DB
 
 Picture cloud: Cloudinary
 
-# Interface/User Authentication
+# Interface
 ![Screenshot 2023-07-11 111155](https://github.com/KodiBharadwaj/mern-chat-app/assets/138383233/5bce58c4-8295-4548-9e07-e6912d8e7a15)
 
 # How to start?
