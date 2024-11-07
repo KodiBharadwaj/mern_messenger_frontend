@@ -5,7 +5,7 @@
 -> This repository contains the code for a full-stack chatting application built using the MERN (MongoDB, Express.js, React, Node.js) stack. 
   The application allows users to engage in real-time communication, with features such as one-to-one chat, group chats, user search, notifications, and more.
 
-# Tech Stack
+## Tech Stack
 The MERN Chat App is built using the following technologies:
 
 Client: React JS
